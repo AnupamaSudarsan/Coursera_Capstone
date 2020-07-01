@@ -1,0 +1,14 @@
+Data : Crime in Vancouver
+
+The data comes from the Vancouver Open Data Catalogue.
+It was extracted on 2017-07-18 and it contains 530,652 records from 2003-01-01 to 2017-07-13.
+The original data set contains coordinates in UTM Zone 10 (columns X and Y).
+It also includes Latitude and Longitude data of each neighbourhood.
+The columns are Type of Crime, Year, Month, Day, Hour, Hundred_Block,Neighbourhood, Latitude and Longitude.
+
+I am going to cluster the neighbourhoods based on the type of crime so as to understand which type of crime
+is the most likely to happen in a particular  neighbourhood.
+
+Link to the Dataser : https://www.kaggle.com/wosaku/crime-in-vancouver#
+
+
