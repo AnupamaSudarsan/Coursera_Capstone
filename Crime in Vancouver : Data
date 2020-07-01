@@ -9,6 +9,6 @@ The columns are Type of Crime, Year, Month, Day, Hour, Hundred_Block,Neighbourho
 I am going to cluster the neighbourhoods based on the type of crime so as to understand which type of crime
 is the most likely to happen in a particular  neighbourhood.
 
-Link to the Dataser : https://www.kaggle.com/wosaku/crime-in-vancouver#
+Link to the Dataset : https://www.kaggle.com/wosaku/crime-in-vancouver#
 
 
