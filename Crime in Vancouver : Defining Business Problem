@@ -1,7 +1,21 @@
 Business Problem 
 
 Introduction 
-As a crucial aspect in the understanding of crime, analysing the crime data is highly essential for the review of existing policies, as well as developing ideal public and private policies to deal with crime. 
-They assist politicians in advocating for or against polices designed to tackle crime, determining the effectiveness of their policies. They facilitate government agencies in making judgements on what is to be expected with the implementation of these policies. As such, comparison between results and previous estimations can be made to determine if their goals have been achieved or require further refining. Therefore, this gives government bodies a general idea whether their policies meet the benchmark, while simultaneously reflecting on the criminal justice system. Hence, by understanding crime through analysing crime statistics, the state would be in a better position to respond to existing crime rates by implementing more relevant and effective policies after review.. 
-Statistics allow observations to be made across time and space, enabling the effortless identification of emerging trends or patterns. By highlighting such patterns, government bodies would have an amplified awareness on the areas they should currently be attending to. Distinctions can be made on areas that require greater attention due to increased trend. Comparable analysis of crime rates is also made possible between different states or countries to analyse the efficiency of the various policies in relation to one another. Reasons are devised to justify the disparity in results for the various policies. From that, individual states or countries can introduce further improvements into existing policies. Only through such methods can we ensure that policies are constantly improving to shape a society that is safer for the people.
+As a crucial aspect in the understanding of crime, analysing the crime data is highly essential for the review of existing policies, 
+as well as developing ideal public and private policies to deal with crime.
+
+They assist politicians in advocating for or against polices designed to tackle crime, determining the effectiveness of their policies. 
+They facilitate government agencies in making judgements on what is to be expected with the implementation of these policies. 
+As such, comparison between results and previous estimations can be made to determine if their goals have been achieved or require further refining. 
+Therefore, this gives government bodies a general idea whether their policies meet the benchmark, while simultaneously reflecting on the criminal justice system.
+Hence, by understanding crime through analysing crime statistics, the state would be in a better position to respond to existing crime rates by implementing
+more relevant and effective policies after review. 
+Statistics allow observations to be made across time and space, enabling the effortless identification of emerging trends or patterns.
+By highlighting such patterns, government bodies would have an amplified awareness on the areas they should currently be attending to.
+Distinctions can be made on areas that require greater attention due to increased trend. 
+Comparable analysis of crime rates is also made possible between different states or countries to analyse the efficiency of the various policies in relation to one another.
+Reasons are devised to justify the disparity in results for the various policies. 
+From that, individual states or countries can introduce further improvements into existing policies.
+Only through such methods can we ensure that policies are constantly improving to shape a society that is safer for the people.
+
 Hence for the current project I will be clustering the neighbourhoods in the Vancouver city based on the type of the crime.
